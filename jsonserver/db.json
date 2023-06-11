@@ -1,0 +1,24 @@
+{
+  "todos": [
+    {
+      "id": "c47b60e3-c54c-47d5-8249-cee870d2ed49",
+      "task": "yoga",
+      "priority": "High",
+      "status": "Done",
+      "createdAt": "2023-06-11T03:36:39.879Z"
+    },
+    {
+      "id": "e4e33f89-74cf-474d-9c18-80e1720f45a9",
+      "task": "studies",
+      "priority": "Low",
+      "status": "ToDo"
+    },
+    {
+      "id": "09e6e53e-c5a6-4299-a694-3cbd7de713b1",
+      "task": "coding",
+      "priority": "High",
+      "status": "InProgress",
+      "createdAt": "2023-06-11T03:39:48.268Z"
+    }
+  ]
+}
